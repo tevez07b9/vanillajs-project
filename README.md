@@ -1,8 +1,8 @@
 # My Custom Vanilla JS App
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/vanilla-js-app.svg?style=social)](https://github.com/yourusername/vanilla-js-app/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/vanilla-js-app.svg?style=social)](https://github.com/yourusername/vanilla-js-app/network/members)  
-[Live Demo](https://yourusername.github.io/vanilla-js-app) | [Author Website](https://talmeezahmed.com)
+[![GitHub stars](https://img.shields.io/github/stars/tevez07b9/vanillajs-project.svg?style=social)](https://github.com/tevez07b9/vanillajs-project/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/tevez07b9/vanillajs-project.svg?style=social)](https://github.com/tevez07b9/vanillajs-project/network/members)  
+[Live Demo](https://vanillajs-project.vercel.app/) | [Author Website](https://tevez07b9.vercel.app/)
 
 ## Introduction
 
@@ -19,4 +19,4 @@ This project demonstrates how Vanilla JS can be used to build efficient and high
 
 Feel free to explore the code and contribute by raising issues, submitting pull requests, or forking the project. 😊
 
-## Made with ❤️ by [Talmeez Ahmed](https://talmeezahmed.com)
+## Made with ❤️ by [Talmeez Ahmed](https://tevez07b9.vercel.app/)
